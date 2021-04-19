@@ -17,8 +17,8 @@ const MainPage = () => {
         slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: true,
-        speed: 2000,
-        autoplaySpeed: 1400,
+        speed: 1000,
+        autoplaySpeed: 2000,
         cssEase: "linear"
       };
 
